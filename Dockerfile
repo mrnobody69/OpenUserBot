@@ -91,7 +91,11 @@ RUN apk add --update \
     sqlite-dev \
     sudo \
     zlib-dev \
-    python-dev
+    python-dev \
+    p7zip \
+    unrar \
+    unzip \
+    rar
 
 
 
