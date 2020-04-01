@@ -93,9 +93,7 @@ RUN apk add --update \
     zlib-dev \
     python-dev \
     p7zip \
-    unrar \
-    unzip \
-    rar
+    unrar
 
 
 
